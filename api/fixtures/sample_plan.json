@@ -1,0 +1,49 @@
+{
+  "title": "Sharma Sangeet, Jaipur",
+  "event_type": "sangeet",
+  "city": "Jaipur",
+  "guest_count": 150,
+  "budget_total_inr": 800000,
+  "event_date": null,
+  "plan_items": [
+    {"title": "Fix the final budget and guest list with the client", "category": "misc", "days_before_event": 21, "notes": "Agree a ceiling for each category."},
+    {"title": "Shortlist and book the venue", "category": "venue", "days_before_event": 21, "notes": "Check power backup, parking and sound limits."},
+    {"title": "Book the caterer and schedule a tasting", "category": "catering", "days_before_event": 19, "notes": "Confirm per-plate rate and live counters."},
+    {"title": "Book the photographer and videographer", "category": "photography", "days_before_event": 18, "notes": "Ask for a sample album."},
+    {"title": "Book the DJ or band and the choreographer", "category": "music", "days_before_event": 18, "notes": "Share the song list early."},
+    {"title": "Approve the decor concept and mood board", "category": "decor", "days_before_event": 16, "notes": "Stage, entrance, seating and lighting."},
+    {"title": "Send digital invitations", "category": "invitations", "days_before_event": 15, "notes": "Include the RSVP link."},
+    {"title": "Book the makeup artist and hair stylist", "category": "makeup", "days_before_event": 14, "notes": "Plan a trial session."},
+    {"title": "Finalise outfits and alterations", "category": "attire", "days_before_event": 12, "notes": ""},
+    {"title": "Arrange guest and family transport", "category": "transport", "days_before_event": 10, "notes": "Airport and hotel pickups."},
+    {"title": "Schedule dance rehearsals", "category": "music", "days_before_event": 8, "notes": "Two rehearsals at the venue if possible."},
+    {"title": "Collect RSVPs and confirm the headcount", "category": "invitations", "days_before_event": 7, "notes": "Send the final count to the caterer."},
+    {"title": "Pay the advance to confirmed vendors", "category": "misc", "days_before_event": 7, "notes": "Keep receipts."},
+    {"title": "Finalise the menu and seating plan", "category": "catering", "days_before_event": 5, "notes": ""},
+    {"title": "Confirm every vendor by phone", "category": "misc", "days_before_event": 3, "notes": "Arrival times and contact numbers."},
+    {"title": "Share the run-of-show with the team", "category": "misc", "days_before_event": 2, "notes": ""},
+    {"title": "Venue walkthrough with decor and sound teams", "category": "venue", "days_before_event": 1, "notes": ""},
+    {"title": "Event day", "category": "misc", "days_before_event": 0, "notes": "Arrive three hours early."}
+  ],
+  "budget": [
+    {"category": "venue", "percent": 25},
+    {"category": "catering", "percent": 30},
+    {"category": "decor", "percent": 14},
+    {"category": "photography", "percent": 8},
+    {"category": "music", "percent": 10},
+    {"category": "makeup", "percent": 4},
+    {"category": "attire", "percent": 4},
+    {"category": "transport", "percent": 3},
+    {"category": "invitations", "percent": 1},
+    {"category": "misc", "percent": 1}
+  ],
+  "vendor_drafts": [
+    {"category": "venue", "message": "Namaste {vendor_name}, I'm planning a sangeet in Jaipur on {event_date} for about 150 guests. Is your venue available that evening? Could you share your rate, what it includes, and the advance needed to confirm? Thank you!"},
+    {"category": "catering", "message": "Namaste {vendor_name}, I'm planning a sangeet in Jaipur on {event_date} for about 150 guests. Are you available? Could you share menu options with per-plate rates and your advance terms? Thank you!"},
+    {"category": "decor", "message": "Namaste {vendor_name}, we're organising a sangeet in Jaipur on {event_date} for about 150 guests. Are you free that day? Could you share decor packages with prices and your advance terms? Thank you!"},
+    {"category": "photography", "message": "Namaste {vendor_name}, we have a sangeet in Jaipur on {event_date} with about 150 guests. Are you available for photo and video? Please share your packages, rates and advance terms. Thank you!"},
+    {"category": "music", "message": "Namaste {vendor_name}, we're planning a sangeet in Jaipur on {event_date} for about 150 guests. Are you available for the evening? Please share your rate, set duration and advance terms. Thank you!"},
+    {"category": "makeup", "message": "Namaste {vendor_name}, we have a sangeet in Jaipur on {event_date}. Are you available for bridal and family makeup? Please share your rates and advance terms. Thank you!"},
+    {"category": "transport", "message": "Namaste {vendor_name}, we need guest transport for a sangeet in Jaipur on {event_date} (about 150 guests). Please share vehicle options, rates and advance terms. Thank you!"}
+  ]
+}
